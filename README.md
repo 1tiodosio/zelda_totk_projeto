@@ -17,10 +17,4 @@ Abra `html/index.html` no navegador ou abra a pasta principal no VS Code.
 - `gameplay.html`: habilidades e tabela.
 - `exploracao.html`: regiões e formulário.
 
-## Antes de entregar
-1. Substitua `DATA_DA_PROVA` e o texto visível em `html/exploracao.html` pela data correta da avaliação.
-2. Na página inicial, substitua a citação por uma frase ou conceito realmente dito pelo professor durante as aulas.
-3. O áudio é um tom original demonstrativo, não música oficial do jogo.
-4. A ilustração é esquemática e original, não uma imagem oficial.
-
-O projeto não contém CSS.
+- O projeto não contém CSS.
